@@ -1,4 +1,4 @@
-import 'package:design_patterns/Behivoral/Command/service/command/queue_command.dart';
+import 'package:design_patterns/Behavioral/Command/service/command/queue_command.dart';
 
 import 'command.dart';
 

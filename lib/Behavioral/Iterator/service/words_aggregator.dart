@@ -1,4 +1,4 @@
-import 'package:design_patterns/Behivoral/Iterator/service/words_iterator.dart';
+import 'package:design_patterns/Behavioral/Iterator/service/words_iterator.dart';
 
 import 'aggregator.dart';
 import 'custom_iterator.dart';
